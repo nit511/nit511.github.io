@@ -35,6 +35,9 @@ p{
     margin: 14px 0;
     max-width: 70%;
 }
+.donate p{
+    max-width: 100%;
+}
 img{
     border: 1px solid #606060;
 }
@@ -57,6 +60,6 @@ header a:hover{
     margin-bottom: 10px;
     padding: 8px 20px;
 }
-.contact span{
+span{
     font-weight: bold;
 }
