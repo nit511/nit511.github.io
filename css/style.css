@@ -38,9 +38,6 @@ p{
 img{
     border: 1px solid #606060;
 }
-span{
-    font-weight: bold;
-}
 header{
     background-color: rgba(42, 20, 41, .5);
     border-bottom: 2px solid rgb(50, 20, 50);
@@ -57,4 +54,7 @@ header a{
 }
 .donate p{
     max-width: 100%;
+}
+.webring{
+    margin: 10px 0;
 }
