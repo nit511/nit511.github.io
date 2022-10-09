@@ -52,11 +52,12 @@ header a{
     margin-bottom: 10px;
     padding: 8px 20px;
 }
-.donate p{
+.donate span{
     max-width: 100%;
+    word-wrap: break-word;
 }
 .webring img{
-    margin: 10px 0;
+    margin: 5px 0;
 }
 .webring img:hover{
     border: 1px solid #800080;
