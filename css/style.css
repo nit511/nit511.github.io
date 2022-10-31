@@ -42,9 +42,14 @@ header {
     background-color: rgba(42, 20, 41, .5);
     border-bottom: 2px solid rgb(50, 20, 50);
     margin-bottom: 10px;
+    display: flex;
+    align-items: flex-end;
 }
-header a {
-    padding: 5px;
+header img {
+    margin: 0 5px;
+}
+header nav a {
+    padding-right: 10px;
     color: #6a0606;
 }
 .box {
@@ -62,6 +67,7 @@ header a {
 .webring img {
     margin: 5px 0;
 }
+header img:hover,
 .webring img:hover {
     border: 1px solid #800080;
 }

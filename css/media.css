@@ -2,6 +2,9 @@
     body {
         font-size: 12px;
     }
+    header img {
+        width: 110px;
+    }
     .webring img {
         width: 75px;
     }
