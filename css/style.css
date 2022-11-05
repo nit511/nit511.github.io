@@ -71,3 +71,7 @@ header img:hover,
 .webring img:hover {
     border: 1px solid #800080;
 }
+.frame img {
+    width: 100%;
+    max-width: max-content;
+}
