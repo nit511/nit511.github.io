@@ -38,6 +38,9 @@ p {
 img {
     border: 1px solid #606060;
 }
+video {
+    border: 1px solid #606060;
+}
 header {
     background-color: rgba(42, 20, 41, .5);
     border-bottom: 2px solid rgb(50, 20, 50);
@@ -71,7 +74,7 @@ header img:hover,
 .webring img:hover {
     border: 1px solid #800080;
 }
-.frame img {
+.frame img,
+.frame video {
     width: 100%;
-    max-width: max-content;
 }
