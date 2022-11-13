@@ -78,3 +78,15 @@ header img:hover,
 .frame video {
     width: 100%;
 }
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background-color: black;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #c9423f;
+    border-radius: 20px;
+    border: 2px solid transparent;
+    background-clip: content-box;
+}
