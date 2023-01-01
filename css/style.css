@@ -63,7 +63,7 @@ header nav a {
 .box ul {
     padding-left: 45px;
 }
-.donate span {
+.donate .paddress p {
     max-width: 100%;
     word-wrap: break-word;
 }
